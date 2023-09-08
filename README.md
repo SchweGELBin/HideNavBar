@@ -10,6 +10,13 @@
 - Download **[latest release](https://github.com/SchweGELBin/Simple-HideNavBar/releases/latest/download/Simple-HideNavBar.zip)**
 - Flash via KernelSU Manager
 
+## Changelog
+- **[Changelog](https://raw.githubusercontent.com/SchweGELBin/hosts_kernelsu/master/CHANGELOG.md)**
+
+## Build
+- Fork this repository
+- Run Action "CI Build"
+
 ## Disclaimer
 - Any option not working is due to incompatibility with your current ROM (there's little i can do about it)
 - GSI compabitility isn't guaranteed due to Magisk's inconsistent GSI support
