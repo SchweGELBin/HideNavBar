@@ -6,10 +6,9 @@
 - Android 10-13
 - Magisk 20+ OR KernelSU
 
-## Installation 
-1. Flash the module
-2. Reboot
-3. Enjoy!
+## Install
+- Download **[latest release](https://github.com/SchweGELBin/Simple-HideNavBar/releases/latest/download/Simple-HideNavBar.zip)**
+- Flash via KernelSU Manager
 
 ## Disclaimer
 - Any option not working is due to incompatibility with your current ROM (there's little i can do about it)
