@@ -11,7 +11,7 @@
 - Flash via KernelSU Manager
 
 ## Changelog
-- **[Changelog](https://raw.githubusercontent.com/SchweGELBin/Simple-HideNavBar/master/CHANGELOG.md)**
+- **[Changelog](https://github.com/SchweGELBin/Simple-HideNavBar/blob/master/CHANGELOG.md)**
 
 ## Build
 - Fork this repository
