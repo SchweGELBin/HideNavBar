@@ -1,6 +1,6 @@
 # Fullscreen Gesture Tweaks for Android 10-13
 
-**This Magisk Module lets you tweak the appearence of Android 10-13's gesture navigation.**
+**This Module lets you tweak the appearence of Android 10-13's gesture navigation.**
 
 ## Requirements
 - Android 10-13
@@ -24,18 +24,8 @@
 - Automatic navbar coloring doesn't work on Android 11+
 
 ## Options
-
 - Android Default
-
-<p align="left">
-  <img src="https://i.imgur.com/x1zcFTn.jpg">
-</p>
-
 - Fullscreen
-
-<p align="left">
-  <img width="463" height="51" src="https://i.imgur.com/q0vTxdR.png">
-</p>
 
 ## Special Thanks
 - [Magisk-Modules-Alt-Repo](https://github.com/Magisk-Modules-Alt-Repo/HideNavBar) for the original repository
