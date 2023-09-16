@@ -17,7 +17,7 @@ jobs:
             prop_path: 'version'
       - name: Archive
         run:  |
-          sudo zip -r ${{ github.event.repository.name }}.zip *  
+          sudo zip -r Simple-HideNavBar.zip *  
       - name: Release
         uses: meeDamian/github-release@master
         with:
@@ -25,11 +25,11 @@ jobs:
           tag: ${{steps.version.outputs.prop}}
           name: ${{steps.version.outputs.prop}}
           body: Please check [changelog](https://github.com/${{ github.repository }}/blob/${{ github.ref_name }}/CHANGELOG.md) for changes
-          files: ${{ github.event.repository.name }}.zip
+          files: Simple-HideNavBar.zip
           gzip: false
           draft: false
           prerelease: false
           allow_override: true
       - name: Cleanup
         run:  |
-          rm ${{ github.event.repository.name }}.zip
+          rm Simple-HideNavBar.zip
