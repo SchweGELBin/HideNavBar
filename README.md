@@ -2,10 +2,6 @@
 
 **This Module lets you tweak the appearence of Android 10-13's gesture navigation.**
 
-## Requirements
-- Android 10-13
-- Magisk 20+ OR KernelSU
-
 ## Install
 - Download **[latest release](https://github.com/SchweGELBin/Simple-HideNavBar/releases/latest/download/Simple-HideNavBar.zip)**
 - Flash via KernelSU Manager
