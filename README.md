@@ -1,6 +1,6 @@
-# Fullscreen Gesture Tweaks for Android 10-13
+# Fullscreen Gesture Tweaks for Android 10-14
 
-**This Module lets you tweak the appearence of Android 10-13's gesture navigation.**
+**This Module lets you tweak the appearence of Android 10-14's gesture navigation.**
 
 ## Install
 - Download **[latest release](https://github.com/SchweGELBin/Simple-HideNavBar/releases/latest/download/Simple-HideNavBar.zip)**
