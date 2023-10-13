@@ -1,3 +1,7 @@
+## v5
+- Bump version code
+- Support for A14
+
 ## v4
 - Bump version code
 - Another Clean up
