@@ -1,7 +1,7 @@
 id=simple-hidenavbar
 name=Simple-HideNavBar
-version=v4
-versionCode=4
+version=v5
+versionCode=5
 author=SchweGELBin
-description=Fullscreen Gesture Tweaks for Android 10-13
+description=Fullscreen Gesture Tweaks for Android 10-14
 updateJson=https://raw.githubusercontent.com/SchweGELBin/Simple-HideNavBar/master/update.json
