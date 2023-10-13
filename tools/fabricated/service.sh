@@ -13,3 +13,4 @@ fi
  cmd overlay enable dan.overlaya
  sleep 1
  cmd overlay enable dan.overlayb
+ killall com.android.systemui
