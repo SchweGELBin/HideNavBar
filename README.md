@@ -14,10 +14,9 @@
 - Run Action "CI Build"
 
 ## Disclaimer
-- Any option not working is due to incompatibility with your current ROM (there's little i can do about it)
+- If the module itself works but an specific option doesn't work, it's likely due to ROM incompatibility (while you may report such bugs, i can't guarantee they'll be fixable)
 - GSI compabitility isn't guaranteed due to Magisk's inconsistent GSI support
-- For issues related to GCam after installing the module you may use the terminal setup tool to increase the navbar size slightly to workaround the issue
-- Automatic navbar coloring doesn't work on Android 11+
+- Automatic navbar coloring doesn't work on Android 11+ (Enabling Gcam fix MAY solve the issue but it's not guaranteed)
 
 ## Options
 - Android Default
