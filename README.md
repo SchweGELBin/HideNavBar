@@ -4,7 +4,7 @@
 
 ## Requirements
 - Android 10+
-- KernelSU
+- KernelSU v0.6.6+
 
 ## Install
 - Download **[latest release](https://github.com/SchweGELBin/Simple-HideNavBar/releases/latest/download/Simple-HideNavBar.zip)**
