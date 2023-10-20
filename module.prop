@@ -1,7 +1,7 @@
 id=simple-hidenavbar
 name=Simple-HideNavBar
-version=v6
-versionCode=6
+version=v7
+versionCode=7
 author=SchweGELBin
 description=Fullscreen Gesture Tweaks 
 updateJson=https://raw.githubusercontent.com/SchweGELBin/Simple-HideNavBar/master/update.json
