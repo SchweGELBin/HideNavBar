@@ -28,15 +28,27 @@ find /data/adb/modules -type d -not -path "*HideNavBar/system*" -iname "*navigat
 find /data/system/package_cache -type f -iname "*NavigationBarMode*" -exec rm -rf {} \; 2>/dev/null
 find /data/resource-cache -type f -iname "*NavigationBarMode*" -exec rm -rf {} \; 2>/dev/null
 
-#Fullscreen
+#Fullscreen options
+#KeyboardHeight - 0
 BH=0.0
 FBH=0
 FFH=0
 FH=0.0
+#Sensitivity
 SS=true
+#ImmersiveMode - False
 FIM=false
+#FullscreenMode
 VAR3=a
+#HideKeyboardButtons - False
 HKB=false
+#GestureSensitivity (Android Default)
+GS=32.0
+FGS=9000
+#DisableBackGesture - False
+DBG=false
+settings delete secure back_gesture_inset_scale_left &>/dev/null
+settings delete secure back_gesture_inset_scale_right &>/dev/null
 
 #Write to overlay resources
 RES="$MODPATH"/Mods/Qtmp/res/values/dimens.xml
