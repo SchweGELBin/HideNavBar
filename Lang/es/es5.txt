@@ -1,3 +1,0 @@
-		Desea desactivar el gesto de retroceso?
-
-		Vol + = Si, Vol - = No

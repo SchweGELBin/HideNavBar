@@ -1,5 +1,0 @@
-
-		Para reativar o gesto de voltar
-		escolha não desativa-los
-		durante a instalacao do modulo.
-

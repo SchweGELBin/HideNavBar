@@ -1,6 +1,0 @@
-
-        Ativar anti-lag na Gcam?
-        Pode tornar a barra de navegeçao
-        isivel em certos dispositivos
-
-        Vol+ = Sim , Vol- = Nao
