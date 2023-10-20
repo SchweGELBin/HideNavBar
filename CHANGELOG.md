@@ -1,3 +1,7 @@
+## v7
+- Bump version code
+- Bug Fix
+
 ## v6
 - Bump version code
 - Remade for Android 14
