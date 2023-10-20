@@ -146,11 +146,8 @@ mount_mirrors() {
   done
 }
 
-# Credits
-ui_print "**************************************"
-ui_print "*   MMT Extended by Zackptg5 @ XDA   *"
-ui_print "**************************************"
-ui_print " "
+# Credits - MMT Extended by Zackptg5 @ XDA
+
 
 # Check for min/max api version
 [ -z $MINAPI ] || { [ $API -lt $MINAPI ] && abort "! Your system API of $API is less than the minimum api of $MINAPI! Aborting!"; }
