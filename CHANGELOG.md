@@ -1,3 +1,7 @@
+## v8
+- Bump version code
+- Merge v25.0 from the original repo
+
 ## v7
 - Bump version code
 - Bug Fix
