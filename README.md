@@ -1,5 +1,7 @@
 # Fullscreen Gesture Tweaks
 
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SchweGELBin/simple-hidenavbar/total)
+
 **KernelSU Module to hide the Navigation Bar**
 
 ## Requirements
